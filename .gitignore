@@ -1,0 +1,9 @@
+.*_cache/
+build/
+*.egg-info/
+dist/
+target/
+*.lock
+
+/.idea/
+/ws/.ipynb_checkpoints/
