@@ -1,6 +1,3 @@
-// Source adopted from
-// https://github.com/tildeio/helix-website/blob/master/crates/word_count/src/lib.rs
-
 pub mod objstore;
 
 use pyo3::prelude::*;
